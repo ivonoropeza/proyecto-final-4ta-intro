@@ -1,0 +1,473 @@
+<html>
+    <head> </head>
+    
+    <body style="background-color: rgba(0, 0, 0, 0.692); color; #efefef;">
+    
+    </body>
+
+<div style="
+z-index:5;
+position:absolute;
+left:800px;
+top:50px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:850px;
+top:50px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:50px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:750px;
+top:100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:700px;
+top:150px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:650px;
+top:200px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:600px;
+top:250px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:550px;
+top:300px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:500px;
+top:350px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:450px;
+top:400px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:450px;
+top:400px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:450px;
+top:420px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:500px;
+top:500px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:600px;
+top:660px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:550px;
+top:600px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:650px;
+top:740px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:700px;
+top:820px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+
+<div style="
+z-index:5;
+position:absolute;
+left:1100px;
+top:820px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1150px;
+top:740px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div><div style="
+z-index:5;
+position:absolute;
+left:1200px;
+top:660px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1250px;
+top:580px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1300px;
+top:500px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1350px;
+top:420px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1350px;
+top:400px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:950px;
+top:900px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1300px;
+top:350px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1250px;
+top:300px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1200px;
+top:250px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1150px;
+top:200px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1100px;
+top:150px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1050px;
+top:100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1000px;
+top:50px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+
+
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:1100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:1000px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:900px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+
+<div style="
+z-index:5;
+position:absolute;
+left:800px;
+top:900px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:950px;
+top:900px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:1000px;
+top:900px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+
+
+<div style="
+z-index:5;
+position:absolute;
+left:800px;
+top:1100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:750px;
+top:1100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:1000px;
+top:1100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:1050px;
+top:1100px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:1200px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+<div style="
+z-index:5;
+position:absolute;
+left:900px;
+top:1250px;
+width:100px;
+height:100px;
+border-radius:0%;
+background: rgba(206, 80, 185, 0.836)">
+</div>
+
+
+</body>
+
+
+
+<h1>we can++
+[code] it!</h1>
+</html>
